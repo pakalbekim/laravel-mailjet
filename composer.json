@@ -1,5 +1,5 @@
 {
-    "name": "mailjet/laravel-mailjet",
+    "name": "pakalbekim/laravel-mailjet",
     "description": "Laravel package for Mailjet API V3 and Laravel Mailjet Mail Transport",
     "keywords": ["framework", "laravel", "mailjet", "mailjet wrapper", "transport", "mailjet API"],
     "license": "MIT",
